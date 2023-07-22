@@ -5,3 +5,6 @@
 - Send a PUT request to https://nodejs-restapi-bgn.onrender.com/products/id
 ### Delete a product
 - Send a DELETE request to https://nodejs-restapi-bgn.onrender.com/products/id
+
+
+### The backend is deployed using [Render](https://render.com/)
